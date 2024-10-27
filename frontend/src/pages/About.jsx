@@ -1,5 +1,4 @@
-
-export default function abuot() {
+export default function About() {
   return (
     <div>
       About
